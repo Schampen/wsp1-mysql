@@ -17,3 +17,4 @@ Starta terminalen
 Kör mysql
 
     sudo mysql -u root
+    grant all privileges on *.* to 'bupp'@'localhost' identified by 'asd123';
