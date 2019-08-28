@@ -4,9 +4,9 @@
 
 Starta terminalen
 
-  sudo service mysql restart
+    sudo service mysql restart
   
-  sudo service apache2   restart
+    sudo service apache2   restart
   
   om det bråkar så dödar du branchcache
   Starta services och stoppa branchcache
